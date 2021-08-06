@@ -2,7 +2,7 @@
 
 ## Overview
 Final project for my Bachelor's degree in Mathematics for Engineering at Politecnico di Torino. </br>
-The object of the thesis is to show how it is possible to model the spread of COVID-19 in Italy using a SIRD model. </br>
+The aim of the thesis is to show how it is possible to model the spread of COVID-19 in Italy using a SIRD model. </br>
 Before looking at the code I recommend checking out the available pdf *SIR_Theory_and_Simulations*.
 
 ## Part 1: Compartmental Models 
